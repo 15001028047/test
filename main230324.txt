@@ -1,6 +1,6 @@
 void main()
 {
-  //print hello world
-  printf("hello world");
+   int a;
+   printf("hello world");
 }
 
